@@ -10,7 +10,7 @@
 </style>
     <header>
         <h1>
-		<p class="Tieu_de">Ch�o m&#7915;ng &#273;&#7871;n v&#7899;i trang web gi&#7899;i thi&#7879;u gia &#273;�nh t�i!</p>
+		<p class="Tieu_de">Chao mung den voi trang web gioi thieu gi dinh toi</p>
     </header>
     <div class="container">
         <div class="gallery">

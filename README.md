@@ -14,7 +14,7 @@
     </header>
     <div class="container">
         <div class="gallery">
-            <h2><font face="Times New Roman" size="4">Gia &#272;�nh t�i bao g&#7891;m:
+            <h2><font face="Times New Roman" size="4">Gia dinh toi bao gom:
 			</font> </h2>
             
 
